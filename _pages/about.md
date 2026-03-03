@@ -19,11 +19,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-Hello! I am a Software Development Engineer (SDE) at Amazon. At Amazon, I work in [S3](https://aws.amazon.com/s3/).
+Hello! I am a Senior Software Engineer at [StackAdapt](https://www.stackadapt.com/), where I work on the Databases team.
 
-I recently completed my Master of Science in Computer Science from the University of Illinois at Urbana-Champaign (UIUC) where I was fortunate enough to work with [Dr. Gang Wang](https://gangw.cs.illinois.edu/) and members of the [NSRG](https://nsrg.sprai.org/). My research interests include network and web security, and internet measurement. 
+Previously, I was a Software Development Engineer at Amazon, working in [Route 53](https://aws.amazon.com/route53/) and [S3](https://aws.amazon.com/s3/).
 
-I completed my Bachelor of Technology in Electronics and Communication Engineering (ECE) from Indian Institute of Technology (IIT), Roorkee in 2017. 
+I completed my Master of Science in Computer Science from the University of Illinois at Urbana-Champaign (UIUC) where I was fortunate enough to work with [Dr. Gang Wang](https://gangw.cs.illinois.edu/) and members of the [NSRG](https://nsrg.sprai.org/). My research interests include network and web security, and internet measurement.
+
+I completed my Bachelor of Technology in Electronics and Communication Engineering (ECE) from Indian Institute of Technology (IIT), Roorkee in 2017.
 
 In my free time you will probably find me playing Genshin Impact or buying plants that I do not know how to take care of. 
 
