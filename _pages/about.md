@@ -27,5 +27,3 @@ I completed my Master of Science in Computer Science from the University of Illi
 
 I completed my Bachelor of Technology in Electronics and Communication Engineering (ECE) from Indian Institute of Technology (IIT), Roorkee in 2017.
 
-In my free time you will probably find me playing Genshin Impact or buying plants that I do not know how to take care of. 
-
