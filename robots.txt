@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rishabhc.github.io/sitemap.xml
+Sitemap: https://rishabh.ch/sitemap.xml
